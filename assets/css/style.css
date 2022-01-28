@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
 /**
 * Template Name: Personal - v2.1.0
 * Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
@@ -1101,4 +1102,8 @@ section .container {
 }
 #image{
   max-width: 90%;
+}
+#text{
+  font-family: 'Shippori Antique', sans-serif !important;
+  text-align: center;
 }
