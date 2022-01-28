@@ -4,6 +4,7 @@ body {
   font-family: Montserrat;
   line-height: 1.4;
   font-size: 18px;
+  background: #0b011b;
 }
 img {
   max-width: 100%;
@@ -21,6 +22,7 @@ a {
 }
 .entry-title {
   grid-area: header;
+  color: aliceblue;
   
   text-transform: uppercase;
   margin: 1em 0 0.5em;
@@ -32,9 +34,11 @@ a {
 .entry-meta {
   grid-area: meta;
   margin-bottom: 2em;
+  color: white;
 }
 .entry-content {
   grid-area: content;
+  color: white;
 }
 .entry-footer {
   grid-area: footer;
@@ -82,4 +86,8 @@ a {
     font-size: 3m;
     margin-bottom: 0.7em;
   }
+}
+
+#text{
+    color: white;
 }

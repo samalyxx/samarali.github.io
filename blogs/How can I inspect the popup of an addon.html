@@ -10,14 +10,18 @@
   <body>
     <article class="hentry">
       <div class="featured-image">
-        <img src="/assets/img/blog/asd.PNG" alt="" />
+        <img src="/assets/img/blog/test.jpeg" alt="" />
+        <h5 id="text">
+          Learn how to debug and trace the code of a Firefox extension . This article is for extension developers who want to use their existing skills and know-how in debugging.
+
+
+        </h5>
       </div>
       <h1 class="entry-title">
         How can I inspect the popup of an addon in Firefox?
       </h1>
       <div class="entry-meta">
         <p>
-          <span class="author">Written by <a href="#">Samar Ali</a></span>
           <span class="date">Friday, January 29, 2022</span>
         </p>
       </div>
@@ -74,8 +78,8 @@
           </div>
           <li>
             After clicking on the inspect a new page would be open and you have
-            to again click on the extension which you want to inspect. I clicked
-            on the honey addon/Inspect again.
+            to click on the extension which you want to inspect. I clicked
+            on the honey addon again.
           </li>
           <br />
           <div class="featured-image">
@@ -99,24 +103,35 @@
             /popover/popover.html . It would load all the elements and allow the
             user to unlock all the inspect feature. You can inspect check the
             consoles, Network, font styles, etc.
-          </li><br>
+          </li>
+          <br />
           <div class="featured-image">
             <img src="/assets/img/blog/ss3.png" alt="" />
           </div>
         </ol>
         <p>
-          Like this ...
-Inspecting the popup of an addon in Firefox is a process that can be done by following these simple steps. Once you have followed these steps, you will be able to see all of the information that is associated with the popup. This information can help you to determine whether or not the addon is safe and trustworthy. Have you inspected an addon's popup before?
+          Like this ... Inspecting the popup of an addon in Firefox is a process
+          that can be done by following these simple steps. Once you have
+          followed these steps, you will be able to see all of the information
+          that is associated with the popup. This information can help you to
+          determine whether or not the addon is safe and trustworthy. Have you
+          inspected an addon's popup before?
         </p>
         <div class="featured-image">
           <img src="/assets/img/blog/ss4.png" alt="" />
         </div>
         <p>
-          Inspecting popups is an important part of addon development. In this blog post, we have shown you how to inspect the popup of an addon in Firefox. We hope that you find this information helpful and use it to create better addons for the Firefox community. Have you tried inspecting popups in other browsers? What was your experience? Let us know in the comments below.
+          Inspecting popups is an important part of addon development. In this
+          blog post, we have shown you how to inspect the popup of an addon in
+          Firefox. We hope that you find this information helpful and use it to
+          create better addons for the Firefox community. Have you tried
+          inspecting popups in other browsers? What was your experience? Let us
+          know in the comments below. 
         </p>
       </div>
 
       <footer class="entry-footer">
+        <div id="disqus_thread"></div>
         <p>
           Credit:
           <a href="#">UsamaEjaz</a>
@@ -125,3 +140,21 @@ Inspecting the popup of an addon in Firefox is a process that can be done by fol
     </article>
   </body>
 </html>
+<script>
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://samarsali-com-2.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
