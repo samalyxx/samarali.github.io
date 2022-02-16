@@ -64,7 +64,7 @@ export default {
   },
   head() {
     return {
-      title: "About | Connor Rothschild",
+      title: "About | Samar Ali",
       meta: [...this.meta],
       link: [
         {
