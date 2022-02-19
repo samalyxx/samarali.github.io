@@ -84,7 +84,7 @@ export default {
   },
   head() {
     return {
-      title: `${this.post.title} | Connor Rothschild`,
+      title: `${this.post.title} | Samar Ali`,
       meta: [
         ...this.meta,
         {
@@ -96,7 +96,7 @@ export default {
           content: this.post.updatedAt,
         },
         { name: "twitter:label1", content: "Written by" },
-        { name: "twitter:data1", content: "Connor Rothschild" },
+        { name: "twitter:data1", content: "Samar Ali" },
       ],
       link: [
         {
