@@ -6,7 +6,7 @@ img_alt: fiverr.
 date: 2022-02-14 # Date should always be in YYYY-MM-DD format
 ---
 
-# What is fiverr really? 
+# What Is Fiverr Really? 
 
 Fiverr is a virtual market where you can buy and sell services online. Everything revolves around the different price tag, as all gigs on Fiverr are offered for $5 each. You can order any service you need from graphic design to programming and even some questionable tasks such as "buying" Facebook fans or Twitter followers. 
 
@@ -18,13 +18,13 @@ Every order that comes in will cost $5 to both parties involved – the buyer an
 
 The main problem with Fiverr is that you will have to choose whether or not to take on work that isn't in your field, but I'll get back to that later… 
 
-#  What are the benefits of selling on Fiverr? 
+#  What Are The Benefits Of Selling On Fiverr? 
 
 Fiverr gives freelancers an opportunity to earn money online without any fees involved. The low price tag attached to every gig provides buyers with cheap solutions for their needs while allowing sellers to make quick cash by providing quick services they can do through outsourcing. 
 
 Fiverr is also perfect for beginners who are just starting out and testing the waters of freelancing. It helps you to get your start without having to spend a lot of money on initial fees or web design, which can be quite expensive nowadays. You get to hone your skills while getting real life experience by selling your completed work through Fiverr. 
 
-#  How do I rank my gigs on fiverr ? 
+#  How Do I Rank My Gigs On Fiverr ? 
 
 If you're a Fiverr seller, you know that ranking your gig on the first page of search results is crucial to getting more orders. But what's the best way to do it? How can you make sure your gig appears above all the others? In this guide, we'll walk you through the three steps that Fiverr takes into account when ranking gigs: reviews, price and delivery time. We'll also give you some tips on how to boost your rankings and get more orders! 
 
@@ -80,7 +80,7 @@ In business, image is everything—and first impressions count. When potential b
 
 Image quality Use sharp and clear images. Avoid pixelated, blurry, stretched, or “squashed” images. Use high-resolution, eye-catching images that stand out to potential buyers. Number of images per Gig You can upload up to 3 images—so make them count!
 
-I recommend to read This blog once so you can understand it better! 
+I recommend to read This  [Blog](https://blog.fiverr.com/post/introducing-the-new-fiverr-gig-image-guidelines) once so you can understand it better! 
 
 #  Step Five : Increase your conversion rate 
 
